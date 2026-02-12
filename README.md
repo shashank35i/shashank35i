@@ -36,4 +36,4 @@ Android (Kotlin), PHP, Node.js, MySQL, Hardhat, Python, Docker
 
 - Email: shashankpendyala3549@gmail.com
 - LinkedIn: https://www.linkedin.com/in/shashank-preetham-pendyala-711686382/
-- Resume: add-your-resume-link
+- Resume: assets/shashank_resume_associate.pdf
