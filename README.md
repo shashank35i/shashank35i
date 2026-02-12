@@ -32,7 +32,7 @@ Full-Stack Engineer focused on Android, backend APIs, and production-grade syste
 
 Core: Java, Spring Boot, REST APIs
 
-Android (Kotlin), PHP, Node.js, MySQL, Python, Docker, Kubernetes
+Android (Java, Kotlin), PHP, Node.js, MySQL, Python, Docker, Kubernetes
 
 ## Contact
 
