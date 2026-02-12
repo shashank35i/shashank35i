@@ -30,7 +30,7 @@ Full-Stack Engineer focused on Android, backend APIs, and production-grade syste
 
 ## Tech Stack
 
-Android (Kotlin), PHP, Node.js, MySQL, Python, Docker, Kubernetes
+Android (Kotlin, Java), PHP, Node.js, MySQL, Python, Docker, Kubernetes
 
 ## Contact
 
