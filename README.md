@@ -1,5 +1,8 @@
 ﻿<div align="center">
   <img src="assets/banner.svg" alt="Shashank Preetham Pendyala" />
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=shashank35i&style=flat&color=0aa06e" alt="Profile views" />
+  </p>
 </div>
 
 # Hi, I'm Shashank Preetham Pendyala
@@ -33,3 +36,4 @@ Android (Kotlin), PHP, Node.js, MySQL, Hardhat, Python, Docker
 
 - Email: shashankpendyala3549@gmail.com
 - LinkedIn: https://www.linkedin.com/in/shashank-preetham-pendyala-711686382/
+- Resume: add-your-resume-link
