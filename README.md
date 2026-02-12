@@ -28,9 +28,17 @@ Full-Stack Engineer focused on Android, backend APIs, and production-grade syste
 - **DentraOS** — Agentic AI dental clinic intelligence
   - https://github.com/shashank35i/DentraOS
 
+## What I Can Do
+
+- Build Android apps with role-based UX, QR flows, and offline-tolerant UI
+- Design and build REST APIs with secure auth and scalable schemas
+- Integrate payments, OTP flows, and notification systems
+- Implement blockchain traceability and verification pipelines
+- Containerize services and set up Docker-based local stacks
+
 ## Tech Stack
 
-Android (Kotlin), PHP, Node.js, MySQL, Hardhat, Python, Docker
+Android (Kotlin), PHP, Node.js, MySQL, Hardhat, Python, Docker, Kubernetes
 
 ## Contact
 
