@@ -5,15 +5,11 @@
   </p>
 </div>
 
-# Hi, I'm Shashank Preetham Pendyala
-
-Full-Stack Engineer focused on Android, backend APIs, and production-grade systems. I build end-to-end products with clean architecture and measurable outcomes.
-
 ## Highlights
 
-- Android + backend delivery with clean UX and role-based flows
-- Blockchain/AI systems for traceability and automation
-- Strong system design, reliability, and deployment readiness
+- Web + Android delivery from UI to API
+- Backend systems with reliable APIs and data modeling
+- Production readiness: CI/CD, Docker, and cloud deployments
 
 ## Featured Projects
 
@@ -30,9 +26,10 @@ Full-Stack Engineer focused on Android, backend APIs, and production-grade syste
 
 ## Tech Stack
 
-Core: Java, Spring Boot, REST APIs
-
-Android (Java, Kotlin), PHP, Node.js, MySQL, Python, Docker, Kubernetes
+Web: React, TypeScript, Vite, Tailwind CSS  
+Android: Kotlin, Java  
+Backend: Node.js, Express, Java, Spring Boot  
+Data/Infra: PostgreSQL, MySQL, Prisma, Docker
 
 ## Contact
 
