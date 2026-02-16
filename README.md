@@ -21,23 +21,23 @@
 
 <br/>
 
-<h3 align="center">
-  <sub><img src="./assets/code-icon.svg" width="24" height="24"/></sub>&nbsp; Tech Stack
-</h3>
+<div align="center">
+  <img src="./assets/title-tech.svg" alt="Tech Stack" width="220"/>
+</div>
 
 <img src="./assets/purple-divider.svg" width="100%"/>
 
 <br/>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,react,tailwindcss,nodejs,expressjs,php,java,spring,postgresql,mysql,mongodb,docker,kubernetes,firebase,figma,git,github&theme=dark&titles=true&perline=9" alt="Tech Stack"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,react,tailwindcss,nodejs,expressjs,php,java,spring,postgresql,mysql,mongodb,docker,kubernetes,firebase,figma,git&theme=dark&titles=true&perline=9" alt="Tech Stack"/>
 </p>
 
 <br/>
 
-<h3 align="center">
-  <sub><img src="./assets/stats-icon.svg" width="24" height="24"/></sub>&nbsp; GitHub Stats
-</h3>
+<div align="center">
+  <img src="./assets/title-stats.svg" alt="GitHub Stats" width="240"/>
+</div>
 
 <img src="./assets/purple-divider.svg" width="100%"/>
 
@@ -50,9 +50,9 @@
 
 <br/>
 
-<h3 align="center">
-  <sub><img src="./assets/connect-icon.svg" width="24" height="24"/></sub>&nbsp; Connect With Me
-</h3>
+<div align="center">
+  <img src="./assets/title-connect.svg" alt="Connect With Me" width="260"/>
+</div>
 
 <img src="./assets/purple-divider.svg" width="100%"/>
 
