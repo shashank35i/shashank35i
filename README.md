@@ -51,6 +51,27 @@
 <br/>
 
 <div align="center">
+  <img src="./assets/title-leetcode.svg" alt="LeetCode" width="220"/>
+</div>
+
+<img src="./assets/purple-divider.svg" width="100%"/>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Knight"/>
+  <img src="https://img.shields.io/badge/Problems%20Solved-531-22C55E?style=for-the-badge" alt="531 problems solved"/>
+  <img src="https://img.shields.io/badge/Contest%20Rating-1915-blue?style=for-the-badge" alt="LeetCode contest rating 1915"/>
+  <img src="https://img.shields.io/badge/Top-4.24%25-A855F7?style=for-the-badge" alt="Top 4.24 percent"/>
+</p>
+
+<p align="center">
+  Knight badge earned on 17 Sep 2026 · 160 Easy · 290 Medium · 81 Hard
+</p>
+
+<br/>
+
+<div align="center">
   <img src="./assets/title-connect.svg" alt="Connect With Me" width="260"/>
 </div>
 
@@ -59,7 +80,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/shashank-preetham-pendyala-711686382/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/shashank35i/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/shashank3549/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   &nbsp;&nbsp;
