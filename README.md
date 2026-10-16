@@ -16,8 +16,18 @@
   <a href="https://leetcode.com/u/shashank3549/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode profile" /></a>
 </p>
 
+<!--
+  CHATBOT BOX: replace the URL below with your portfolio's chat section,
+  e.g. https://your-portfolio.com/#chat
+-->
 <p align="center">
-  <img src="./assets/engineering-rhythm.svg" width="720" alt="Engineering rhythm: build, improve, ship" />
+  <a href="https://YOUR-PORTFOLIO-URL/#chat">
+    <img src="./assets/ask-chatbot.svg" width="480" alt="Ask more about Shashank — open the AI chat on my portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="./assets/engineering-rhythm.svg" width="760" alt="Engineering rhythm: build, improve, ship" />
 </p>
 
 ---
@@ -36,27 +46,24 @@
 
 ---
 
-## GitHub at a glance
+## How I build
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shashank35i&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a855f7&amp;icon_color=a855f7&amp;text_color=ffffff&amp;include_all_commits=true" alt="Shashank's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shashank35i&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a855f7&amp;text_color=ffffff&amp;langs_count=6" alt="Most used languages" />
-</p>
-
----
-
-## LeetCode Knight
-
-<p align="center">
-  <a href="https://leetcode.com/u/shashank3549/"><img src="https://img.shields.io/badge/Knight-FFA116?style=flat-square&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode Knight" /></a>
-  <img src="https://img.shields.io/badge/531%20solved-0d1117?style=flat-square&amp;labelColor=0d1117&amp;color=a855f7" alt="531 LeetCode problems solved" />
-  <img src="https://img.shields.io/badge/1915%20rating-0d1117?style=flat-square&amp;labelColor=0d1117&amp;color=a855f7" alt="Contest rating 1915" />
-  <img src="https://img.shields.io/badge/top%204.24%25-0d1117?style=flat-square&amp;labelColor=0d1117&amp;color=a855f7" alt="Top 4.24 percent" />
-</p>
-
-<p align="center">
-  Knight badge earned 17 Sep 2026 · 160 Easy · 290 Medium · 81 Hard
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <strong>Design for failure</strong><br />
+      <sub>Timeouts, retries, and clear errors are part of the API, not an afterthought.</sub>
+    </td>
+    <td align="center" width="33%">
+      <strong>Measure, then optimize</strong><br />
+      <sub>Profile first. Fix the slow query, not the one that only looks slow.</sub>
+    </td>
+    <td align="center" width="33%">
+      <strong>Keep it readable</strong><br />
+      <sub>Small services, honest names, and code the next person can change safely.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
