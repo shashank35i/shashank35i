@@ -1,19 +1,129 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="t d" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTphNjU4Mjk4Yi0zNjFmLTQyYzMtYjZhZC00YmI2NTdkODAwOTkAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaHGGbyrCN3vf97Mg0A0HzD0AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoyMDA4ZWU2Zi0zYzUwLTRmOTQtYThhOC04Y2FiYjdmNTliM2VscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoIXnhHr0rLRwou7A36sZb0AAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggAOFMr3ow0sBEYmguB049jTM/m9El01fZSB6pyVPlFGykZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaGz8/DOplzafI9Idce6yJjsAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCgEWWMtv5lrYb6Q7uNok4Q40IfnVr2hssxEUNAT1bamWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBi5Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmE2NTgyOThiLTM2MWYtNDJjMy1iNmFkLTRiYjY1N2Q4MDA5OS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjNkNTg4ZmE4LTc3N2YtNDhjYS05OWE2LTJiNWVkN2IyMTFlZHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAA4UyvejDSwERiaC4HTj2NMz+b0SXTV9lIHqnJU+UUbKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggMPGMYW1usVfJc0/4Yr+9hR6lUAiIKX8w6FT0HxgQ8MiiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggJMiHsyXe2CBWXxx8SHsZNWHn6rJY5WEesXYrfZQfbA50Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQDmOBQ+oNFA0ntXbK2+QDOR9QfyqyXDPHm5mhureYZiJ2MkVOd0Xk/9JVDyZjdzU4AVeTvd7/PV6UeLKiGJriL0=</c2pa:manifest></metadata>
+  <title id="t">Shashank Preetham Pendyala — Software Engineer</title>
+  <desc id="d">Software Engineer, Backend Engineering, Product Systems</desc>
+
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0b1020"/>
-      <stop offset="100%" stop-color="#1f2a44"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop class="s1" offset="0"/>
+      <stop class="s2" offset="0.55"/>
+      <stop class="s3" offset="1"/>
     </linearGradient>
-    <linearGradient id="a" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#a855f7"/>
-      <stop offset="100%" stop-color="#7c3aed"/>
+
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c084fc"/>
+      <stop offset="1" stop-color="#7c3aed"/>
     </linearGradient>
+
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop class="glow" offset="0"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle class="dot" cx="1" cy="1" r="1"/>
+    </pattern>
+
+    <linearGradient id="dotsFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#fff" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="dotsMask">
+      <rect width="1280" height="320" fill="url(#dotsFade)"/>
+    </mask>
+
+    <clipPath id="frame"><rect width="1280" height="320" rx="14"/></clipPath>
   </defs>
-  <rect width="1280" height="320" fill="url(#g)"/>
-  <circle cx="1040" cy="-40" r="180" fill="#111827" opacity="0.55"/>
-  <circle cx="1180" cy="60" r="140" fill="#0f172a" opacity="0.6"/>
-  <circle cx="140" cy="300" r="220" fill="#0f172a" opacity="0.5"/>
-  <rect x="80" y="86" width="6" height="148" fill="url(#a)"/>
-  <text x="110" y="145" font-family="Segoe UI, Arial, sans-serif" font-size="42" fill="#e5e7eb" font-weight="700">Shashank Preetham Pendyala</text>
-  <text x="110" y="190" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#cbd5f5">Software Engineer | Backend Engineering | Product Systems</text>
+
+  <style>
+    /* Light is the default; dark applies automatically via prefers-color-scheme */
+    :root {
+      --bg1: #f8fafc; --bg2: #eef2fb; --bg3: #e2e8f7;
+      --name: #0f172a; --role: #4338ca; --meta: #475569;
+      --edge: #8b5cf6; --edge-o: 0.38; --node: #7c3aed;
+      --dot: #475569; --dot-o: 0.14;
+      --circle: #4f46e5; --circle-o: 0.05;
+      --glow: 0.16; --border: #cbd5e1;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg1: #0b0f1a; --bg2: #121a30; --bg3: #1c2744;
+        --name: #f1f5f9; --role: #c7d2fe; --meta: #94a3b8;
+        --edge: #8b5cf6; --edge-o: 0.28; --node: #a78bfa;
+        --dot: #94a3b8; --dot-o: 0.10;
+        --circle: #ffffff; --circle-o: 0.03;
+        --glow: 0.22; --border: #232c45;
+      }
+    }
+
+    .s1 { stop-color: var(--bg1); } .s2 { stop-color: var(--bg2); } .s3 { stop-color: var(--bg3); }
+    .glow { stop-color: #8b5cf6; stop-opacity: var(--glow); }
+    .dot  { fill: var(--dot); fill-opacity: var(--dot-o); }
+    .circ { fill: var(--circle); fill-opacity: var(--circle-o); }
+    .frame { fill: none; stroke: var(--border); stroke-width: 1; }
+
+    .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+    .name { font-size: 50px; font-weight: 700; fill: var(--name); letter-spacing: -0.5px; }
+    .role { font-size: 21px; font-weight: 400; fill: var(--role); }
+    .meta { font-size: 15px; font-weight: 400; fill: var(--meta); letter-spacing: 0.2px; }
+
+    .edge { stroke: var(--edge); stroke-opacity: var(--edge-o); stroke-width: 1.2; fill: none; }
+    .node { fill: var(--node); }
+
+    /* One quiet entrance, then stillness */
+    .in   { opacity: 0; animation: in 0.9s ease-out 0.15s forwards; }
+    .in2  { opacity: 0; animation: in 0.9s ease-out 0.45s forwards; }
+    .in3  { opacity: 0; animation: in 0.9s ease-out 0.75s forwards; }
+    .grow { transform-box: fill-box; transform-origin: top; transform: scaleY(0); animation: grow 0.8s ease-out forwards; }
+    @keyframes in   { to { opacity: 1; } }
+    @keyframes grow { to { transform: scaleY(1); } }
+
+    /* Slow, low-contrast pulse on a single node */
+    .pulse { animation: pulse 6s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity: 0.55; } 50% { opacity: 1; } }
+
+    @media (prefers-reduced-motion: reduce) {
+      .in, .in2, .in3, .grow, .pulse { animation: none; opacity: 1; transform: none; }
+    }
+  </style>
+
+  <g clip-path="url(#frame)">
+    <!-- Background -->
+    <rect width="1280" height="320" fill="url(#bg)"/>
+    <rect width="1280" height="320" fill="url(#dots)" mask="url(#dotsMask)"/>
+
+    <!-- Soft depth -->
+    <circle class="circ" cx="1120" cy="-20" r="190"/>
+    <circle class="circ" cx="1230" cy="70" r="140"/>
+    <circle class="circ" cx="260" cy="340" r="200"/>
+    <circle cx="980" cy="170" r="260" fill="url(#glow)"/>
+
+    <!-- Right side: minimal service graph -->
+    <g>
+      <path class="edge" d="M900 110 L990 150 L1080 105"/>
+      <path class="edge" d="M990 150 L1000 230 L930 250"/>
+      <path class="edge" d="M1080 105 L1160 160 L1000 230"/>
+      <path class="edge" d="M1160 160 L1200 235"/>
+      <path class="edge" d="M900 110 L850 190 L930 250"/>
+
+      <circle class="node" cx="900"  cy="110" r="5"   fill-opacity="0.70"/>
+      <circle class="node pulse" cx="990" cy="150" r="7"/>
+      <circle class="node" cx="1080" cy="105" r="5"   fill-opacity="0.70"/>
+      <circle class="node" cx="1160" cy="160" r="4"   fill-opacity="0.60"/>
+      <circle class="node" cx="1000" cy="230" r="5"   fill-opacity="0.70"/>
+      <circle class="node" cx="930"  cy="250" r="4"   fill-opacity="0.55"/>
+      <circle class="node" cx="850"  cy="190" r="4"   fill-opacity="0.55"/>
+      <circle class="node" cx="1200" cy="235" r="3.5" fill-opacity="0.50"/>
+    </g>
+
+    <!-- Accent bar -->
+    <rect class="grow" x="88" y="86" width="5" height="148" rx="2.5" fill="url(#bar)"/>
+
+    <!-- Text -->
+    <text class="sans name in"  x="122" y="148">Shashank Preetham Pendyala</text>
+    <text class="sans role in2" x="122" y="190">Software Engineer  |  Backend Engineering  |  Product Systems</text>
+    <text class="sans meta in3" x="122" y="226">Java &amp; Spring Boot  ·  Microservices  ·  System Design  ·  Web &amp; Android</text>
+  </g>
+
+  <rect class="frame" x="0.5" y="0.5" width="1279" height="319" rx="14"/>
 </svg>
