@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://YOUR-PORTFOLIO-URL/#chat">
+  <a href="https://portfolio-2yo.pages.dev/#chat">
     <img src="./assets/ask-chatbot.svg" width="480" alt="Ask more about Shashank — open the AI chat on my portfolio" />
   </a>
 </p>
