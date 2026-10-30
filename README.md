@@ -14,6 +14,14 @@
   <a href="https://portfolio-2yo.pages.dev/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio" /></a>
 </p>
 
+<p align="center">
+  <a href="https://portfolio-2yo.pages.dev/chat" target="_blank" rel="noopener">
+    <img src="./assets/ask-chatbot.svg" width="480" alt="Ask more about Shashank — open the AI chat on my portfolio" />
+  </a>
+  <br />
+  <sub>↑ Click to chat with my portfolio AI</sub>
+</p>
+
 <table align="center" width="100%">
   <tr>
     <td align="center" width="25%">
@@ -100,5 +108,5 @@
 ---
 
 <p align="center">
-  <sub><a href="https://portfolio-2yo.pages.dev/chat">Ask my portfolio AI</a> · <a href="mailto:shashankpendyala3549@gmail.com">Email me</a></sub>
+  <sub><a href="mailto:shashankpendyala3549@gmail.com">Email me</a></sub>
 </p>
